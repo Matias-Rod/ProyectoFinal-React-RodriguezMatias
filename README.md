@@ -17,14 +17,14 @@ Para poder usar este proyecto tenes que hacer lo siguiente:
 | En este proyecto se utlizaron las siguientes herramientas |/|
 |-------------------|----------------------------------|
 
-|CSS3|![CSS](./src/images/assets/css.png) 
-|GIT|![GIT](./src/images/assets/git.png)
-|BOOTSTRAP|![BOOTSTRAP](./src/images/assets/bootsrap.png) 
-|REACT| ![REACT](./src/images/assets/react.png)
+|CSS3|(./src/images/assets/css.png) 
+|GIT|(./src/images/assets/git.png)
+|BOOTSTRAP|(./src/images/assets/bootsrap.png) 
+|REACT|(./src/images/assets/react.png)
 
 ## 🌐 Mis redes 🌐
 ---
-[![Instagram](./src/images/assets/instagram.png)](https://www.instagram.com/mati_het/) [![Github](./src/images/asset/github.png)](https://github.com/Matias-Rod) [![LinkedIn](./src/images/asset/linkedin.png)](https://www.linkedin.com/in/matias-rodriguez-1421b3275/)
+[![Instagram](./src/images/assets/instagram.png)](https://www.instagram.com/mati_het/) [![Github](./src/images/assets/github.png)](https://github.com/Matias-Rod) [![LinkedIn](./src/images/assets/linkedin.png)](https://www.linkedin.com/in/matias-rodriguez-1421b3275/)
 
 ## 🔸Links del Proyecto🔸
 A continuación les dejo los links, tanto del repositorio en Github como los deployments:
